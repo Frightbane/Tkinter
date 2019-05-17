@@ -1,0 +1,1 @@
+muestra ckeck box dentro de ventana master para seleccionar texto junto con dos botones

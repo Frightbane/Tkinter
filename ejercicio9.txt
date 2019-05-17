@@ -1,0 +1,1 @@
+crea label contenedor de dos botones y dos text fields para ingresar nombre y apellido

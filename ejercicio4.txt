@@ -1,0 +1,1 @@
+crea una instancia de un frame con caracterisiticas de choice box

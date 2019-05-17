@@ -1,0 +1,2 @@
+define una clase App que incicializa un widget frame , mismo 
+que contenera dos botones. Uno cierra el programa y el otro muestra eun mensaje en la consola.

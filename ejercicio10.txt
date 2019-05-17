@@ -1,0 +1,1 @@
+frame contenedor de labels y textfields que recogeran nombres y se almacenaran en las variables e1 y e2
